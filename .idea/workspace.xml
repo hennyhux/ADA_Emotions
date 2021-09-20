@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52c0d06a-3cf4-483f-ae6a-5a43a9c0f075" name="Default Changelist" comment="">
+    <list default="true" id="52c0d06a-3cf4-483f-ae6a-5a43a9c0f075" name="Default Changelist" comment="Reorganized project structure">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -186,6 +186,8 @@
       <workItem from="1628190826869" duration="267000" />
       <workItem from="1629242467397" duration="2823000" />
       <workItem from="1632098185247" duration="595000" />
+      <workItem from="1632111778872" duration="189000" />
+      <workItem from="1632111978104" duration="188000" />
     </task>
     <task id="LOCAL-00001" summary="Reorganized project structure">
       <created>1577253931615</created>
@@ -201,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624080989975</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Reorganized project structure">
+      <created>1632111939619</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632111939619</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
